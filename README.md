@@ -1,6 +1,6 @@
-# PleaseRetry
+# PleaseRetrySSE[^1]
 
-PleaseRetry - это плагин-перехватчик Game Coordinator сообщений для
+PleaseRetrySSE[^1] - это плагин-перехватчик Game Coordinator сообщений для
 Counter-Strike: Global Offensive (CS:GO), написанный на C++ с
 использованием SSE_PDK (SmartSteamEmu Plugin Development Kit).
 
@@ -76,3 +76,7 @@ ids=2100,2005
 
 ## Тестовый сервер
 Вы можете использовать [**этот сервер**](https://github.com/dmitriykotik/PleaseRetry-TestServer) для тестирования плагина.
+
+[^1]: PleaseRetrySSE - это плагин, созданный для эмулятора SSE (_сокр. от SmartSteamEmu_). Ранее назывался `PleaseRetry`. На данный момент `PleaseRetry` - это комплекс инструментов для эмуляции Steam*.
+
+`* Steam - это торговая марка принадлежащая Valve Corporation. PleaseRetry, PleaseRetrySSE, PleaseRetry-TestServer и SmartSteamEmu - не имеют никакого отношения к Valve Corporation и Steam.`
